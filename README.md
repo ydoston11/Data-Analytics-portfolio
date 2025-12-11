@@ -9,5 +9,5 @@ Each project includes problem definition, data preparation, analytical methods, 
 📁 Projects Included
  - A
  - B
-  - B.1
-  - B.2  
+   - B.1
+     - B.2  
