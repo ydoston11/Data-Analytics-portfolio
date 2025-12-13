@@ -8,8 +8,15 @@ As well you can find and download my up-to-date from here: [CV](https://github.c
 A collection of analytics projects focused on statistical rigor, clean methodology, and real business impact.
 Each project includes problem definition, data preparation, analytical methods, visuals, and key insights.
 
-📁 Projects Included
+## 📁 Projects Included
  - A
  - B
    - B.1
      - B.2  
+
+## My Certificates
+
+ - [Introduction to Data Science (CERGE-EI, 2021)]
+  
+ - 
+
