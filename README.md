@@ -18,5 +18,5 @@ Each project includes problem definition, data preparation, analytical methods, 
 
  - [Introduction to Data Science (CERGE-EI, 2021)](https://github.com/ydoston11/Data-Analytics-portfolio/blob/main/Certificate/Intro%20to%20Data%20Science%20Doston%20Yusupov.pdf)
   
- - 
+ - [Advanced SQL MySQL for Ecommerce Data Analysis (Udemy)](https://www.udemy.com/certificate/UC-21b7a371-7274-4cbd-80ff-4c2ea988e999/)
 
