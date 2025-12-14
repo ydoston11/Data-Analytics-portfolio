@@ -1,6 +1,6 @@
 # Credit Card Churn Analysis: A 4-Year Evolution
 
-> *"Reviewing the old helps us learn the new"* — Confucius
+> *"Review the old and discover the new"* — Confucius
 
 This repository contains two analyses of the same dataset, separated by 4 years of learning:
 
@@ -113,11 +113,11 @@ This analysis goes beyond p-values:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 ```bash
-python >= 3.8
+python >= 3.10
 ```
 
 ### Installation
@@ -160,7 +160,7 @@ Download and place `BankChurners.csv` in the `data/` folder.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.10+**
 - **pandas** — Data manipulation
@@ -170,22 +170,17 @@ Download and place `BankChurners.csv` in the `data/` folder.
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **CERGE-EI** — Where the 2021 original was created during Introduction to Data Science
 - **Kaggle** — For hosting the [Credit Card Customers dataset](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Doston** — [LinkedIn](https://www.linkedin.com/in/doston-yusupov/) | [GitHub](https://github.com/ydoston11)
 
 *Feel free to reach out if you have questions about this analysis or want to discuss data science career growth!*
-
