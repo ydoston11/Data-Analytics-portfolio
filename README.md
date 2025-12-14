@@ -20,3 +20,4 @@ Each project includes problem definition, data preparation, analytical methods, 
  - [Advanced SQL MySQL for Ecommerce Data Analysis (Udemy)](https://www.udemy.com/certificate/UC-21b7a371-7274-4cbd-80ff-4c2ea988e999/)
  - [Microsoft Excel Pro Tips: Excel from Beginner to Advanced (Udemy)](https://www.udemy.com/certificate/UC-d70625a5-127c-46d2-b719-1842b9ca6061/)
  - [Microsoft Power BI Desktop for Business Intelligence (Udemy)](https://www.udemy.com/certificate/UC-61a20036-e265-462d-b464-e25334be8bef/)
+ - [SQL for Data Analysis: Beginner MySQL Business Intelligence (Udemy)](https://www.udemy.com/certificate/UC-5ba6aa4f-6b89-4276-932c-6abe5a565f48/)
