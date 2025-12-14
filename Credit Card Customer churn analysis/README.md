@@ -1,6 +1,6 @@
 # Credit Card Churn Analysis: A 4-Year Evolution
 
-> *"Review the old and discover the new"* — Confucius
+> *"Reviewing the old helps us learn the new"* — Confucius
 
 This repository contains two analyses of the same dataset, separated by 4 years of learning:
 
