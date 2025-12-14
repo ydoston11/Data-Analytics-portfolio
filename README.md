@@ -16,7 +16,7 @@ Each project includes problem definition, data preparation, analytical methods, 
 
 ## My Certificates
 
- - [Introduction to Data Science (CERGE-EI, 2021)]
+ - [Introduction to Data Science (CERGE-EI, 2021)](https://github.com/ydoston11/Data-Analytics-portfolio/blob/main/Certificate/Intro%20to%20Data%20Science%20Doston%20Yusupov.pdf)
   
  - 
 
