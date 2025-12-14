@@ -170,8 +170,6 @@ Download and place `BankChurners.csv` in the `data/` folder.
 
 ---
 
----
-
 ## Acknowledgments
 
 - **CERGE-EI** — Where the 2021 original was created during Introduction to Data Science
