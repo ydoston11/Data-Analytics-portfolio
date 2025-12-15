@@ -1,16 +1,3 @@
-# Credit Card Churn Analysis: A 4-Year Evolution
-
-> *"Review the old and discover the new"* — Confucius
-
-This repository contains two analyses of the same dataset, separated by 4 years of learning:
-
-| Version | Year | Approach | Outcome |
-|---------|------|----------|---------|
-| [Original](archive/2021_cerge_ei_original.py) | 2021 | Exploratory | "Here I got stuck" |
-| [Revisited](notebooks/2025_revisited.ipynb) | 2025 | Prescription-oriented | 5 actionable recommendations |
-
-**The dataset didn't change. I did, so I decided to make reflection on the my learnings and an old gold dataset**
-
 ---
 
 ## Project Overview
